@@ -1,1 +1,0 @@
-En este capítulo veremos cómo gestionar múltiples ramas en Git.

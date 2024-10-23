@@ -1,1 +1,3 @@
-nuevo
+Git es un sistema de control de versiones idead por Linus Torvalds
+
+nueva linea
